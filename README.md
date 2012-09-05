@@ -24,4 +24,4 @@ git push
 ```
 ## That's it, you can now checkout your app at:
 
-    http://ogm-<namespace>.rhcloud.com
+http://ogm-<namespace>.rhcloud.com
